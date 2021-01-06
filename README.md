@@ -1,4 +1,3 @@
-DIGITAL DOOR LOCK
  
 FINAL PROJECT ARSITEKTUR PERANGKAT LUNAK
 
@@ -8,7 +7,11 @@ INGGRIT TAMARA (1808107010024)
 
 ARNENSI (1808107010035)
 
-Deskripsi Project
+Ide Project:
+
+DIGITAL DOOR LOCK
+
+Deskripsi Project:
 
 Digital Door Lock adalah sebuah alat pengunci pintu rumah digital. Kunci pintu ini menggunakan kode keamanan berupa pin, sehingga lebih aman jika dibandingkan dengan kunci konvensional yang menggunakan kunci berbentuk fisik. Pin kunci rumah dapat diganti setiap saat sehingga sangat aman dan mencegah terjadinya pembukaan pintu secara paksa (pembobolan). 
 
